@@ -1,0 +1,6 @@
+#Arquivos e pastas ue devem ser ignorados
+
+node_modules/
+
+*.zip
+*.rar
